@@ -1,6 +1,7 @@
 # BlockPad
 
 [![Build Status](https://travis-ci.org/waitingcheung/blockpad.svg?branch=master)](https://travis-ci.org/waitingcheung/blockpad)
+[![codecov](https://codecov.io/gh/waitingcheung/blockpad/branch/master/graph/badge.svg)](https://codecov.io/gh/waitingcheung/blockpad)
 
 BlockPad is a real-time collaborative rich text editor powered by a blockchain.
 
