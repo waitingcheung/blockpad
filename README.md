@@ -1,5 +1,7 @@
 # BlockPad
 
+[![Build Status](https://travis-ci.org/waitingcheung/blockpad.svg?branch=master)](https://travis-ci.org/waitingcheung/blockpad)
+
 BlockPad is a real-time collaborative rich text editor powered by a blockchain.
 
 ![](https://user-images.githubusercontent.com/2617118/34530035-d5ee0ef6-f0e8-11e7-979d-ed7fac8b9ff4.gif)
