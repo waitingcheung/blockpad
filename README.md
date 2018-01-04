@@ -174,7 +174,7 @@ function handleBlockchainResponse(message) {
 
 ### HTTP Server
 
-The [HTTP server](http.js) provides the REST APIs to the web interface to access the blockchain and the peers.
+The [HTTP server](http.js) provides the RESTful APIs to the web interface to access the blockchain and the peers.
 
 ```js
 const express = require('express');
