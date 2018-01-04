@@ -1,0 +1,26 @@
+{
+  "name": "blockpad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nyc --reporter=html --reporter=text mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.2",
+    "ws": "^3.3.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-arrays": "^2.0.0",
+    "chai-match-pattern": "^1.1.0",
+    "mocha": "^4.1.0",
+    "nyc": "^11.4.1",
+    "supertest": "^3.0.0"
+  }
+}
